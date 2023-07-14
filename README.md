@@ -18,18 +18,19 @@
 - 2.6 文字列とメソッド([問題１](CHAPTER02/Q2_6_1.py), [問題２](CHAPTER02/Q2_6_2.py))
 - 2.7 リスト([問題１](CHAPTER02/Q2_7_1.py), [問題２](CHAPTER02/Q2_7_2.py))
 - 2.8 リストと添え字([問題１](CHAPTER02/Q2_8_1.py), [問題２](CHAPTER02/Q2_8_2.py))
-- 2.9 演算子と真偽値
-- 2.10 関数の引数
-- 2.11 複数同時代入
-- 2.12 モジュールの利用
-- 2.13 importのいろいろな書き方
+- 2.9 演算子と真偽値([問題１](CHAPTER02/Q2_9_1.py).[問題２](CHAPTER02/Q2_9_2.py))
+- 2.10 関数の引数([問題１](CHAPTER02/Q2_10_1.py),[問題２](CHAPTER02/Q2_10_2.py))
+- 2.11 複数同時代入([問題１](CHAPTER02/Q2_11_1.py),[問題２](CHAPTER02/Q2_11_2.py))
+- 2.12 モジュールの利用([問題１](CHAPTER02/Q2_12_1.py),[問題２](CHAPTER02/Q2_12_2.py))
+- 2.13 importのいろいろな書き方([問題１](CHAPTER02/Q2_13_1.py).[問題２](CHAPTER02/Q2_13_2.py))
+- 2.final ([問題](CHAPTER02/Q2_final.py))
 ### CHAPTER03　制御構文
 - 3.1 if文の基礎([問題１](CHAPTER03/Q3_1_1.py),[問題２](CHAPTER03/Q3_1_2.py))
 - 3.2 if文の応用([問題１](CHAPTER03/Q3_2_1.py),[問題２](CHAPTER03/Q3_2_2.py))
 - 3.3 for文の基礎([問題１](CHAPTER03/Q3_3_1.py),[問題２](CHAPTER03/Q3_3_2.py))
 - 3.4 for文の応用([問題１](CHAPTER03/Q3_4_1.py),[問題２](CHAPTER03/Q3_4_2.py))
 - 3.5 while文の基礎([問題１](CHAPTER03/Q3_5_1.py),[問題２](CHAPTER03/Q3_5_2.py))
-- 3.6 whileを使ったプログラミング
+- 3.6 whileを使ったプログラミング([問題１](CHAPTER03/Q3_6_1.py),[問題２](CHAPTER03/Q3_6_2.py))
 - 3.7 ファイルの操作
 - 3.8 バイナリファイルの扱い
 ### CHAPTER04　関数

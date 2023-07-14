@@ -1,6 +1,8 @@
-import random as rd
-import string
+import random
 
-alphabet = list(string.ascii_lowercase)
+while True:
+    letter = chr(random.randint(97, 122))
+    print(letter)
 
-print(rd.choice(alphabet))
+    if letter == "s":
+        break
